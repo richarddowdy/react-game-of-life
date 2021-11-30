@@ -67,7 +67,7 @@ const Grid = ({ numRows, numCols }) => {
         style={{
           content: "center",
           display: "grid",
-          gridTemplateColumns: `repeat(${numCols}, 10px)`,
+          gridTemplateColumns: `repeat(${numCols}, 15px)`,
         }}
       >
         {grid.map((rows, rowIdx) =>

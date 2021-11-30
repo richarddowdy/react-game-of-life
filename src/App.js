@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Title />
       <div className="game_of_life">
-        <Grid numRows={60} numCols={100} />
+        <Grid numRows={40} numCols={75} />
       </div>
     </div>
   );
