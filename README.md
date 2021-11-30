@@ -6,3 +6,5 @@
 - Run `yarn install`
 - Run `yarn start`
 - Open browser to `http://localhost:3000`
+
+See it in live at https://dowdy-game-of-life.netlify.app

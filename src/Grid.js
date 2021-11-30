@@ -57,7 +57,7 @@ const Grid = ({ numRows, numCols }) => {
       });
     });
 
-    setTimeout(startGameOfLife, 100);
+    setTimeout(startGameOfLife, 50);
   }, []);
 
   return (
