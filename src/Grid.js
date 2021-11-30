@@ -57,7 +57,7 @@ const Grid = ({ numRows, numCols }) => {
       });
     });
 
-    setTimeout(startGameOfLife, 10);
+    setTimeout(startGameOfLife, 100);
   }, []);
 
   return (
@@ -67,7 +67,7 @@ const Grid = ({ numRows, numCols }) => {
         style={{
           content: "center",
           display: "grid",
-          gridTemplateColumns: `repeat(${numCols}, 20px)`,
+          gridTemplateColumns: `repeat(${numCols}, 10px)`,
         }}
       >
         {grid.map((rows, rowIdx) =>
