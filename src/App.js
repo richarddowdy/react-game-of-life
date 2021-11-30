@@ -1,4 +1,3 @@
-import { useState } from "react";
 // Components
 import Grid from "./Grid";
 import Title from "./Title";

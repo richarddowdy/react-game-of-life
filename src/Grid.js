@@ -1,10 +1,10 @@
 import { useState, useRef, useCallback } from "react";
 import { produce } from "immer";
-
 import { calculateNumberOfLivingNeighbors } from "./util/scripts";
 
 // Styles
 import "./Grid.css";
+
 // Components
 import Node from "./Node";
 

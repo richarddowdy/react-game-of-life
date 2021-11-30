@@ -14,9 +14,7 @@ const Title = () => {
         style={{ textDecoration: "none !important", color: "black" }}
       >
         <FontAwesomeIcon icon={faGithub} size="4x" />
-        <span style={{ alignContent: "center", justifyContent: "center" }}>
-          Link to Github repo.
-        </span>
+        <span>Link to Github repo.</span>
       </a>
     </>
   );
