@@ -1,0 +1,19 @@
+#grid {
+  width: 80%;
+  justify-content: center;
+}
+
+#grid_controls {
+  width: 20%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+button {
+  height: 60px;
+  width: 100px;
+  font-size: large;
+  margin: 30px auto 30px 0;
+  display: block;
+}
