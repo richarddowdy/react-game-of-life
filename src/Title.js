@@ -9,7 +9,7 @@ const Title = () => {
         This is my attempt to visualize the game of life with React and hooks.
       </p>
       <a
-        href={"https://google.com"}
+        href={"https://github.com/richarddowdy/react-game-of-life"}
         alt="Link to Github repo"
         style={{ textDecoration: "none !important", color: "black" }}
       >
