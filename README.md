@@ -1,4 +1,4 @@
-My first attempt at Conway's Game-Of-Life
+# My first attempt at Conway's Game-Of-Life
 
 ### How to get it working locally:
 
